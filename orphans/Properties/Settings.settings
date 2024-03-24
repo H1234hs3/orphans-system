@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="orphans.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SqlServerConStraing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=HASSAN\SQLEXPRESS;Database=OrphanDB;Trusted_Connection=True;Encrypt=false;MultipleActiveResultSets=true;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

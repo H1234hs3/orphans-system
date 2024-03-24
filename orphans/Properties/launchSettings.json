@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "orphans": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
