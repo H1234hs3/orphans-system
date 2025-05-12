@@ -28,19 +28,17 @@
 ## 📷 System Screenshots  
 ![Login](images/login.jpg)
 ---
-![Login](images/Main Screen.jpg)
+![Main Screen](images/Main_Screen.jpg)
 ---
-![Login](images/![Login](images/login.jpg)
+![Orphan display interface](images/Orphan-display-interface.jpg)
 ---
-![Login](images/Orphan display interface.jpg)
+![Orphan replacemen](images/Orphan-replacement.jpg)
 ---
-![Login](images/Orphan replacement.jpg)
+![Projects interface](images/Projects-interface.jpg)
 ---
-![Login](images/Projects interface.jpg)
+![Users](images/Users.jpg)
 ---
-![Login](images/Users.jpg)
----
-![Login](images/Verify orphan data.jpg)
+![Verify orphan data](images/Verify-orphan-data.jpg)
 ---
 ## 🧑‍💻 User Roles & Permissions
 | Role          | Allowed Actions                            |
