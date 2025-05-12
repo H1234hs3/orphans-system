@@ -38,7 +38,7 @@
 ---
 ![Users](images/Users.jpg)
 ---
-![Verify orphan data](images/Verify-orphan-data.jpg)
+![Verify orphan data](images/Verify-orpha-data.jpg)
 ---
 ## 🧑‍💻 User Roles & Permissions
 | Role          | Allowed Actions                            |
